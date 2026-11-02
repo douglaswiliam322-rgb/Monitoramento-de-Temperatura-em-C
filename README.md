@@ -65,6 +65,10 @@ O que foi feito: Defini o limite em 150°C e digitei: 199°C, 188°C e 199°C se
 
 Resultado: No terceiro valor acima do limite, o programa encerrou sozinho na hora e mostrou o relatório final completo certinho. Print em: evidencias/teste03.png
 
+![Teste 1 - Validação de entradas](Evidencias/teste01.png)
+![Teste 2 - Temperaturas não consecutivas](Evidencias/teste02.png)
+![Teste 3 - Três temperaturas consecutivas](Evidencias/teste03.png)
+
 
 Questão Final de Reflexão
 
